@@ -1,4 +1,4 @@
 AND OS BETA 1116(2023/7/13) (whwdzg)
-1.OOBE 1.2307.5:
+1.OOBE 1.5.2307:
 	1.添加了隐私条例。
 	2.替换图标为微软fluent-system-icon
