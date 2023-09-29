@@ -9,6 +9,7 @@
     <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/AND-Dev-Team/AND-UI-OS">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AND-Dev-Team/AND-UI-OS">
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/AND-Dev-Team/AND-UI-OS">
+    <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/AND-Dev-Team/AND-UI-OS">
     </br>
 </div>
 
