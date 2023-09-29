@@ -11,6 +11,6 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/AND-Dev-Team/AND-UI-OS">
     </br>
 </div>
-和
+
 
 # AND UI OS官方开源仓库
