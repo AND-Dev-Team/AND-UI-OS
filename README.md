@@ -11,6 +11,7 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/AND-Dev-Team/AND-UI-OS">
     <img alt="GitHub (Pre-)Release Date" src="https://img.shields.io/github/release-date-pre/AND-Dev-Team/AND-UI-OS">
     <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/AND-Dev-Team/AND-UI-OS">
+    <img alt="GitHub tag (with filter)" src="https://img.shields.io/github/v/tag/AND-Dev-Team/AND-UI-OS">
     </br>
 </div>
 
