@@ -16,7 +16,7 @@
 </div>
 
 
-# 使用 AND UI OS
+# 获取 AND UI OS
 1.从Release中下载对应版本（HTML为通用版本，exe为Windows版本，apk为安卓版本）
 
 2.访问 and-dev-team.github.io/andosonline
